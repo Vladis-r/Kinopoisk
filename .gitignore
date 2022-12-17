@@ -1,0 +1,8 @@
+venv/
+.idea/
+.*_cache/
+__pycache__
+*.db
+.coverage
+.pytest_cache/
+identifier.sqlite
